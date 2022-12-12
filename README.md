@@ -8,4 +8,7 @@
   > ![image](https://user-images.githubusercontent.com/86606579/207099395-0b1b073f-040b-40b9-854c-cc9a872dcb10.png)
    ## Après que j'ai activer spring.cloud.discovery.enabled=true et j'ai mis true au lieu de false dans toutes les micro services et j'ai rédemarer les applications         voilà le résulat qui s'affiche 
   > ![image](https://user-images.githubusercontent.com/86606579/207100105-da3546f7-b3f6-4e2f-afcb-29ec3bc93e41.png)
+  > # L'acces ou web service des clients à l'aide de la gatway et de la configuration dynamique 
+  >  ![image](https://user-images.githubusercontent.com/86606579/207101173-31c47476-4e70-4b82-873e-526c675eff5b.png)
+
 
